@@ -1,10 +1,8 @@
-# md5matcher
+# md5matcher (C++)
 
 Simply get matches between 2 files:
   - A list of hash
   - A dictionnary
-
-Written in C++ for performance usage.
 
 ### Usage
 
@@ -35,4 +33,4 @@ time elapsed: 0 second(s)
 
 ### About
 
-No license. md5matcher @ 2016 Noel "biji" Do Van
+@2016
